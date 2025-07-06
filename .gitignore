@@ -1,6 +1,6 @@
 Scratch/
 .env/
 *.pth
-*.npy
 Dynamics/
 __pycache__
+.gitignore
